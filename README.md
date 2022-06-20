@@ -29,4 +29,4 @@ Please make sure you write unit tests - part of the exercise is to explore your 
 
 ## How to send the solution back
 
-Upload your soultion to either Github or Gitlab and send us the link.
+Upload your solution to either Github or Gitlab and send us the link.
