@@ -6,4 +6,4 @@ This is a REST API that uses `express.js` for simple questions and answers submi
 
 ## Comment
 
-Enpdpoints done, tests not. 
+Enpdpoints done, tested in Postman, tests not. 
